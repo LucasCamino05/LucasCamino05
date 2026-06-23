@@ -33,7 +33,7 @@ Aplicación integral para la administración de paquetes turísticos y reservas.
 ---
 
 ### 📊 Estado Actual
-* 🎓 Completando mi Tesina Final en la UTN.
+* 🎓 Completando mi Tesis en la UTN.
 * 🔍 Buscando activamente mi primera oportunidad laboral en el sector IT como Desarrollador Junior / Trainee.
 
 ---
